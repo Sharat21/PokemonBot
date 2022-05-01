@@ -196,4 +196,4 @@ async def wins(ctx):
 
     await ctx.send("Wins: " + str(ws['D1'].value))
 
-client.run('OTY5Nzk1OTM0NzMwOTc3MzIx.Ymym2A.1nbeLvUomdkpA20zKYHL7sJahZU')
+client.run('BOT TOKEN')
