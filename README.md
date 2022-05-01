@@ -2,7 +2,7 @@
 The discord PokemonBot which allows discord users to engage themselves in a pokemon experience. 
 
 
-##Commands
+Commands
 
 1) !start <'charmander', 'bulbasaur', 'squirtle'>
   -> Begins the players pokemon journey, and gives them the chosen starter pokemon
@@ -17,7 +17,8 @@ The discord PokemonBot which allows discord users to engage themselves in a poke
   -> Displays all of the moves that <pokemon> can learn
   
 6) !hunt <location>
-  -> Begin a new adventure in <location>, or a random one if one is not provided. Begin searching for new pokemon here!
+  -> Begin a new adventure in <location>, or a random one if one is not provided. Begin searching for new pokemon here! 
+    Follow instructions given during hunt to attack, use special attack, flee, or attempt to catch the pokemon.
   
 5) !wins 
   -> Displays how many battles the player has won
