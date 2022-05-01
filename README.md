@@ -16,8 +16,8 @@ Commands
 4) !moves <pokemon>
   -> Displays all of the moves that <pokemon> can learn
   
-6) !hunt <location>
-  -> Begin a new adventure in <location>, or a random one if one is not provided. Begin searching for new pokemon here! 
+6) !hunt <location (randomized if not supplied>
+  -> Begin a new adventure in the given location, or a random one if one is not provided. Begin searching for new pokemon here! 
     Follow instructions given during hunt to attack, use special attack, flee, or attempt to catch the pokemon.
   
 5) !wins 
