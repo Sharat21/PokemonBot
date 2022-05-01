@@ -2,6 +2,7 @@
 The discord PokemonBot which allows discord users to engage themselves in a pokemon experience. 
 
 Try out the bot here: https://discord.gg/BeFWgp9w
+
 Commands
 
 1) !start <'charmander', 'bulbasaur', 'squirtle'>
